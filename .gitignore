@@ -1,2 +1,19 @@
-*.agdai
-MAlonzo/**
+# Node modules and n8n environment
+node_modules/
+.n8n/
+
+# Environment variables files
+.env
+.env.local
+.env.*.local
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs
+*.log
+
+# Ignore workflow JSON exports (optional)
+*.json
