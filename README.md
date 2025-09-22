@@ -1,5 +1,6 @@
 # Smart Chef - AI-Powered Telegram Recipe Bot
 
+
 Smart Chef is an AI-enabled Telegram bot designed to generate customized recipes from the ingredients users have on hand. By leveraging advanced language models, the bot provides simple, step-by-step cooking instructions directly in Telegram, making meal preparation easier and more creative.
 
 ## Features
@@ -9,7 +10,9 @@ Smart Chef is an AI-enabled Telegram bot designed to generate customized recipes
 - Stepwise recipe instructions for easy cooking
 - Memory feature to maintain conversational context
 - Built using n8n workflow automation and OpenAI GPT-4 model
+### Sample Usage
 
+![Smart Chef Bot Sample](sample.png)
 ## Setup Instructions
 
 1. Create a Telegram bot via BotFather and get your Bot API token.
